@@ -1,0 +1,5 @@
+Product Name: 	CorelDRAW Graphics Suite X7 - Retail
+Language: 	EN DE FR IT NL ES BR CZ PL RU CT CS JP
+OS: 		Windows 8/8.1 or Windows 7 (32-bit or 64-bit editions), with latest service packs
+Media No: 	DVD 1
+Build No: 	17.6.0.1021
